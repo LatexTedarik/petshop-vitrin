@@ -1,0 +1,362 @@
+[
+ {
+  "slug": "minik-dostlar-petshop-kadikoy",
+  "name": "Minik Dostlar Petshop",
+  "district": "Kadıköy",
+  "phone": "0552 827 29 00",
+  "rating": 4.9,
+  "layout": 1,
+  "site_path": "minik-dostlar-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "corner-pet-shop-kadikoy",
+  "name": "CORNER PET SHOP",
+  "district": "Kadıköy",
+  "phone": "0532 779 23 96",
+  "rating": 5,
+  "layout": 1,
+  "site_path": "corner-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "bulut-petshop-kadikoy",
+  "name": "Bulut petshop",
+  "district": "Kadıköy",
+  "phone": "0546 462 11 39",
+  "rating": 4.9,
+  "layout": 2,
+  "site_path": "bulut-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "petlove-pet-shop-kadikoy",
+  "name": "Petlove Pet Shop",
+  "district": "Kadıköy",
+  "phone": "0542 343 20 25",
+  "rating": 4.8,
+  "layout": 1,
+  "site_path": "petlove-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "denizkizi-pet-shop-kadikoy",
+  "name": "Denizkızı Pet Shop",
+  "district": "Kadıköy",
+  "phone": "0535 948 33 30",
+  "rating": 4.6,
+  "layout": 0,
+  "site_path": "denizkizi-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "ciciko-petshop-kadikoy",
+  "name": "Çiçiko Petshop",
+  "district": "Kadıköy",
+  "phone": "0505 668 93 65",
+  "rating": 4.9,
+  "layout": 0,
+  "site_path": "ciciko-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "fikirtepe-nestora-petshop-kadikoy",
+  "name": "Fikirtepe Nestora Petshop",
+  "district": "Kadıköy",
+  "phone": "0537 571 20 10",
+  "rating": 5,
+  "layout": 1,
+  "site_path": "fikirtepe-nestora-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "pethilda-petshop-kadikoy",
+  "name": "Pethilda Petshop",
+  "district": "Kadıköy",
+  "phone": "0507 233 14 96",
+  "rating": 4,
+  "layout": 0,
+  "site_path": "pethilda-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "my-pet-shop-kadikoy",
+  "name": "My Pet Shop",
+  "district": "Kadıköy",
+  "phone": "(0216) 467 87 80",
+  "rating": 4.9,
+  "layout": 3,
+  "site_path": "my-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "jako-petshop-eve-servis-hizmetimiz-vardir-kadikoy",
+  "name": "Jako Petshop - Eve Servis Hizmetimiz Vardır",
+  "district": "Kadıköy",
+  "phone": "0537 524 19 44",
+  "rating": 4.9,
+  "layout": 2,
+  "site_path": "jako-petshop-eve-servis-hizmetimiz-vardir-kadikoy/index.html"
+ },
+ {
+  "slug": "petgil-evcil-hayvan-urunleri-kadikoy",
+  "name": "Petgil Evcil Hayvan Ürünleri",
+  "district": "Kadıköy",
+  "phone": "(0216) 360 15 91",
+  "rating": 4.5,
+  "layout": 1,
+  "site_path": "petgil-evcil-hayvan-urunleri-kadikoy/index.html"
+ },
+ {
+  "slug": "mooi-pets-3-kadikoy",
+  "name": "mooi pets 3",
+  "district": "Kadıköy",
+  "phone": "0532 208 41 00",
+  "rating": 4.7,
+  "layout": 2,
+  "site_path": "mooi-pets-3-kadikoy/index.html"
+ },
+ {
+  "slug": "feneryolu-evcil-hayvan-urunleri-feneryolu-petshop-kadikoy",
+  "name": "Feneryolu Evcil Hayvan Urunleri (Feneryolu Petshop)",
+  "district": "Kadıköy",
+  "phone": "(0216) 346 84 78",
+  "rating": 4.6,
+  "layout": 3,
+  "site_path": "feneryolu-evcil-hayvan-urunleri-feneryolu-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "deniz-pet-shop-kadikoy",
+  "name": "deniz pet shop",
+  "district": "Kadıköy",
+  "phone": "0553 889 75 58",
+  "rating": 5,
+  "layout": 1,
+  "site_path": "deniz-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "irmak-pet-shop-kadikoy",
+  "name": "ırmak pet shop",
+  "district": "Kadıköy",
+  "phone": "0533 709 35 77",
+  "rating": 1,
+  "layout": 2,
+  "site_path": "irmak-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "erenkoy-pet-shop-kadikoy",
+  "name": "Erenköy Pet Shop",
+  "district": "Kadıköy",
+  "phone": "(0216) 368 52 50",
+  "rating": 4.6,
+  "layout": 2,
+  "site_path": "erenkoy-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "cute-animals-petshop-kadikoy",
+  "name": "Cute Animals Petshop",
+  "district": "Kadıköy",
+  "phone": "0551 955 43 89",
+  "rating": 4.8,
+  "layout": 2,
+  "site_path": "cute-animals-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "petpaket-216-petshop-kadikoy",
+  "name": "Petpaket 216 Petshop",
+  "district": "Kadıköy",
+  "phone": "0533 574 34 45",
+  "rating": 4.3,
+  "layout": 3,
+  "site_path": "petpaket-216-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "dumipet-petshop-evcil-hayvan-urunleri-marketi-kadikoy",
+  "name": "DUMİPET PETSHOP EVCİL HAYVAN ÜRÜNLERİ MARKETİ",
+  "district": "Kadıköy",
+  "phone": "0543 542 52 26",
+  "rating": 4.8,
+  "layout": 1,
+  "site_path": "dumipet-petshop-evcil-hayvan-urunleri-marketi-kadikoy/index.html"
+ },
+ {
+  "slug": "nota-petshop-petkuafor-kadikoy",
+  "name": "Nota petshop petkuafor",
+  "district": "Kadıköy",
+  "phone": "0553 102 37 55",
+  "rating": 3.1,
+  "layout": 2,
+  "site_path": "nota-petshop-petkuafor-kadikoy/index.html"
+ },
+ {
+  "slug": "kittens-puppies-petstore-petshop-kadikoy",
+  "name": "Kittens & Puppies Petstore- Petshop",
+  "district": "Kadıköy",
+  "phone": "(0216) 766 66 66",
+  "rating": 5,
+  "layout": 3,
+  "site_path": "kittens-puppies-petstore-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "pet-bakkali-petshop-kadikoy",
+  "name": "Pet Bakkalı Petshop",
+  "district": "Kadıköy",
+  "phone": "0501 366 34 34",
+  "rating": 4.8,
+  "layout": 1,
+  "site_path": "pet-bakkali-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "moda-pet-house-kadikoy",
+  "name": "Moda Pet House",
+  "district": "Kadıköy",
+  "phone": "(0216) 338 66 14",
+  "rating": 4.4,
+  "layout": 3,
+  "site_path": "moda-pet-house-kadikoy/index.html"
+ },
+ {
+  "slug": "mavi-petshop-kadikoy",
+  "name": "Mavi Petshop",
+  "district": "Kadıköy",
+  "phone": "0541 272 09 70",
+  "rating": 5,
+  "layout": 0,
+  "site_path": "mavi-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "lion-petshop-kadikoy",
+  "name": "Lion Petshop",
+  "district": "Kadıköy",
+  "phone": "0533 692 69 47",
+  "rating": null,
+  "layout": 1,
+  "site_path": "lion-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "cino-pet-shop-kadikoy",
+  "name": "Cino pet shop",
+  "district": "Kadıköy",
+  "phone": "0533 551 92 05",
+  "rating": null,
+  "layout": 3,
+  "site_path": "cino-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "merdivenkoy-petshop-kadikoy",
+  "name": "Merdivenköy Petshop",
+  "district": "Kadıköy",
+  "phone": "0216 350 44 10",
+  "rating": null,
+  "layout": 1,
+  "site_path": "merdivenkoy-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "miyu-petshop-kadikoy",
+  "name": "Miyu petshop",
+  "district": "Kadıköy",
+  "phone": "0552 568 48 85",
+  "rating": null,
+  "layout": 0,
+  "site_path": "miyu-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "karaca-petshop-kadikoy",
+  "name": "KARACA PETSHOP",
+  "district": "Kadıköy",
+  "phone": "0535 551 39 61",
+  "rating": null,
+  "layout": 3,
+  "site_path": "karaca-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "simco-petshop-kadikoy",
+  "name": "SİMÇO PETSHOP",
+  "district": "Kadıköy",
+  "phone": "0538 401 84 97",
+  "rating": null,
+  "layout": 1,
+  "site_path": "simco-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "ulker-pet-shop-kadikoy",
+  "name": "ülker pet shop",
+  "district": "Kadıköy",
+  "phone": "0530 977 89 27",
+  "rating": null,
+  "layout": 1,
+  "site_path": "ulker-pet-shop-kadikoy/index.html"
+ },
+ {
+  "slug": "petgiller-petshop-kadikoy",
+  "name": "Petgiller Petshop",
+  "district": "Kadıköy",
+  "phone": "0541 845 24 48",
+  "rating": null,
+  "layout": 3,
+  "site_path": "petgiller-petshop-kadikoy/index.html"
+ },
+ {
+  "slug": "balki-petshop-suadiye-kadikoy",
+  "name": "Balki Petshop Suadiye",
+  "district": "Kadıköy",
+  "phone": "0532 725 05 72",
+  "rating": null,
+  "layout": 3,
+  "site_path": "balki-petshop-suadiye-kadikoy/index.html"
+ },
+ {
+  "slug": "dalyan-pet-shop-ve-pet-kuafor-kadikoy",
+  "name": "Dalyan Pet Shop ve pet kuaför",
+  "district": "Kadıköy",
+  "phone": "(0216) 266 69 66",
+  "rating": 4.7,
+  "layout": 1,
+  "site_path": "dalyan-pet-shop-ve-pet-kuafor-kadikoy/index.html"
+ },
+ {
+  "slug": "bgd-evcil-hayvan-urunleri-kadikoy",
+  "name": "Bgd evcil hayvan ürünleri",
+  "district": "Kadıköy",
+  "phone": "(0216) 504 97 94",
+  "rating": 5,
+  "layout": 3,
+  "site_path": "bgd-evcil-hayvan-urunleri-kadikoy/index.html"
+ },
+ {
+  "slug": "pet-premier-exclusive-kadikoy",
+  "name": "Pet Premier exclusive",
+  "district": "Kadıköy",
+  "phone": "0533 202 12 01",
+  "rating": 4.7,
+  "layout": 3,
+  "site_path": "pet-premier-exclusive-kadikoy/index.html"
+ },
+ {
+  "slug": "basak-hanim-pet-store-kadikoy",
+  "name": "Başak Hanım Pet Store",
+  "district": "Kadıköy",
+  "phone": "0545 947 18 20",
+  "rating": 5,
+  "layout": 3,
+  "site_path": "basak-hanim-pet-store-kadikoy/index.html"
+ },
+ {
+  "slug": "pati-kapida-petshop-kadikoy-7-24-kadikoy",
+  "name": "Pati Kapıda Petshop Kadıköy 7/24",
+  "district": "Kadıköy",
+  "phone": "0531 379 02 61",
+  "rating": null,
+  "layout": 1,
+  "site_path": "pati-kapida-petshop-kadikoy-7-24-kadikoy/index.html"
+ },
+ {
+  "slug": "altiyol-petshop-cafe-kadikoy",
+  "name": "Altıyol Petshop Cafe",
+  "district": "Kadıköy",
+  "phone": "0543 334 19 18",
+  "rating": 5,
+  "layout": 3,
+  "site_path": "altiyol-petshop-cafe-kadikoy/index.html"
+ },
+ {
+  "slug": "flamingo-petshop-kozyatagi-kadikoy",
+  "name": "Flamingo Petshop Kozyatağı",
+  "district": "Kadıköy",
+  "phone": "(0216) 361 95 44",
+  "rating": 4.5,
+  "layout": 3,
+  "site_path": "flamingo-petshop-kozyatagi-kadikoy/index.html"
+ }
+]
